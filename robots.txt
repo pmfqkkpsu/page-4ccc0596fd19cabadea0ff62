@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.unqxobm.cn/sitemap.xml
